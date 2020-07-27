@@ -1,0 +1,12 @@
+:root {
+  --mainColor: #26475f;
+  --secondaryColor: #26475f;
+
+  --mainText: #8abbe9;
+  --secondaryText: #26475f;
+  --themeDotBorder: #ffffff;
+  --previewBg: rbg(25, 39, 52, 0.8);
+  --previewShadow: #111921;
+  --gradientOne: white;
+  --gradientTwo: #5783ac;
+}
